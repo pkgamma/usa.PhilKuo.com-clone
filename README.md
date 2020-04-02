@@ -1,4 +1,4 @@
-# usa.PhilKuo.com
+# Phil's America Exchange Year blog
 
 This is the static archive of Phil's America Exchange Year blog and backups of other related assets.
 
@@ -16,4 +16,4 @@ Asset files originally used for the blog reading app for Android.
 
 ## Content Backups
 
-`xml`, `atom`, and `docs` files of the content of the blog. Please use the files with a `_latest` prefix for content recovery, those are up-to-date.
+`xml` and `atom` files of the content of the blog. Please use the files with a `_latest` prefix for content recovery, those are up-to-date.
