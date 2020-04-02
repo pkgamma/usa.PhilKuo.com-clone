@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.feedjit.com	TRUE	/	FALSE	1999999999	feedjitUU1	f5a955d7-d521-4525-aa7f-a215d596566f
+.google.com	TRUE	/	FALSE	1999999999	NID	67=HqO6twCagW7DJtAd5Fi1c47q3fUCDtTLdEsxAJOfcOVOfL9-Aq1gBbQsCSkyAO8r51-eCyfSVf6xataZp4F51UlWFrlxC2WrL7xoV9sY3YFdwV39OXDhDzunVddNUVQ9
+

@@ -1,0 +1,597 @@
+# -------------------------------------------------------
+# App: com.phil.exchange.year, date: 20140116-20140214
+# -------------------------------------------------------
+
+date,device,current_device_installs,daily_device_installs,daily_device_uninstalls,daily_device_upgrades,current_user_installs,total_user_installs,daily_user_installs,daily_user_uninstalls
+20140214,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140214,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140214,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140214,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140214,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140214,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140214,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140214,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140214,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140214,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140214,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140214,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140214,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140214,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140214,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140214,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140214,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140214,Sony Ericsson Xperia SL (LT26ii),1,0,0,0,1,1,0,0
+20140214,Sony Ericsson LT18i (LT18i),0,0,0,0,0,1,0,0
+20140214,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140214,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140214,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140214,C1904,0,0,0,0,0,1,0,0
+20140213,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140213,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140213,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140213,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140213,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140213,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140213,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140213,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140213,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140213,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140213,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140213,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140213,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140213,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140213,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140213,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140213,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140213,Sony Ericsson Xperia SL (LT26ii),1,0,0,0,1,1,0,0
+20140213,Sony Ericsson LT18i (LT18i),0,0,0,0,0,1,0,0
+20140213,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140213,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140213,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140213,C1904,0,0,0,0,0,1,0,0
+20140212,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140212,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140212,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140212,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140212,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140212,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140212,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140212,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140212,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140212,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140212,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140212,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140212,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140212,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140212,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140212,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140212,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140212,Sony Ericsson Xperia SL (LT26ii),1,0,0,0,1,1,0,0
+20140212,Sony Ericsson LT18i (LT18i),0,0,0,0,0,1,0,0
+20140212,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140212,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140212,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140212,C1904,0,0,0,0,0,1,0,0
+20140211,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140211,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140211,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140211,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140211,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140211,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140211,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140211,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140211,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140211,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140211,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140211,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140211,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140211,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140211,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140211,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140211,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140211,Sony Ericsson Xperia SL (LT26ii),1,0,0,0,1,1,0,0
+20140211,Sony Ericsson LT18i (LT18i),0,0,0,0,0,1,0,0
+20140211,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140211,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140211,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140211,C1904,0,0,0,0,0,1,0,0
+20140210,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140210,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140210,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140210,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140210,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140210,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140210,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140210,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140210,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140210,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140210,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140210,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140210,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140210,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140210,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140210,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140210,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140210,Sony Ericsson Xperia SL (LT26ii),1,0,0,0,1,1,0,0
+20140210,Sony Ericsson LT18i (LT18i),0,0,0,0,0,1,0,0
+20140210,Samsung Galaxy S2 (GT-I9100),1,0,0,1,1,1,0,0
+20140210,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140210,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140210,C1904,0,0,0,0,0,1,0,0
+20140209,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140209,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140209,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140209,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140209,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140209,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140209,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140209,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140209,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140209,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140209,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140209,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140209,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140209,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140209,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140209,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140209,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140209,Sony Ericsson Xperia SL (LT26ii),1,1,0,0,1,1,1,0
+20140209,Sony Ericsson LT18i (LT18i),0,0,1,1,0,1,0,1
+20140209,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140209,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140209,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140209,C1904,0,0,0,0,0,1,0,0
+20140208,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140208,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140208,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140208,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140208,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140208,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140208,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140208,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140208,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140208,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140208,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140208,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140208,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140208,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140208,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140208,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140208,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140208,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140208,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140208,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140208,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140208,C1904,0,0,0,0,0,1,0,0
+20140207,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140207,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140207,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140207,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140207,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140207,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140207,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140207,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140207,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140207,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140207,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140207,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140207,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140207,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140207,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140207,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140207,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140207,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140207,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140207,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140207,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140207,C1904,0,0,0,0,0,1,0,0
+20140206,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140206,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140206,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140206,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140206,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140206,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140206,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140206,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140206,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140206,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140206,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140206,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140206,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140206,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140206,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140206,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140206,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140206,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140206,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140206,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140206,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140206,C1904,0,0,0,0,0,1,0,0
+20140205,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140205,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140205,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140205,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140205,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140205,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140205,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140205,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140205,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140205,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140205,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140205,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140205,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140205,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140205,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140205,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140205,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140205,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140205,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140205,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140205,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140205,C1904,0,0,0,0,0,1,0,0
+20140204,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140204,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140204,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140204,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140204,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140204,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140204,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140204,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140204,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140204,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140204,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140204,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140204,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140204,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140204,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140204,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140204,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140204,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140204,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140204,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140204,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140204,C1904,0,0,0,0,0,1,0,0
+20140203,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140203,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140203,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140203,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140203,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140203,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140203,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,1,1,1,0,0
+20140203,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140203,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140203,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140203,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140203,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140203,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140203,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140203,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140203,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140203,Samsung Galaxy Proclaim (SCH-S720C),0,0,0,0,0,1,0,0
+20140203,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140203,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140203,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140203,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140203,C1904,0,0,0,0,0,1,0,0
+20140202,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140202,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140202,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140202,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140202,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140202,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140202,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140202,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140202,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140202,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140202,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140202,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140202,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140202,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140202,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140202,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140202,Samsung Galaxy Proclaim (SCH-S720C),0,1,1,0,0,1,1,1
+20140202,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140202,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140202,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140202,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140202,C1904,0,0,0,0,0,1,0,0
+20140201,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140201,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140201,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140201,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140201,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140201,Samsung Galaxy S4 (ja3g),2,0,0,1,2,2,0,0
+20140201,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140201,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140201,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140201,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140201,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140201,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140201,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140201,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140201,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140201,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140201,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140201,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140201,Sony Ericsson Xperia Z (C6602),2,0,0,1,2,2,0,0
+20140201,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140201,C1904,0,0,0,0,0,1,0,0
+20140131,HTC HTC J Z321e (valentewxc9),1,0,0,1,1,1,0,0
+20140131,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140131,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140131,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140131,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140131,Samsung Galaxy S4 (ja3g),2,0,0,1,2,2,0,0
+20140131,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140131,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140131,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140131,HTC HTC Butterfly (dlxub1),2,0,0,1,2,2,0,0
+20140131,HTC HTC 9060 (dlxpul),1,0,0,1,1,1,0,0
+20140131,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140131,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140131,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140131,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140131,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140131,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140131,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140131,Sony Ericsson Xperia Z (C6602),2,0,0,1,2,2,0,0
+20140131,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140131,C1904,0,0,0,0,0,1,0,0
+20140130,HTC HTC J Z321e (valentewxc9),0,0,0,0,0,1,0,0
+20140130,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140130,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140130,HTC HTC One (m7),2,0,0,1,2,2,0,0
+20140130,Samsung Galaxy S3 (m0),1,0,0,1,1,1,0,0
+20140130,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140130,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140130,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140130,HTC HTC One X (endeavoru),1,0,0,1,1,1,0,0
+20140130,HTC HTC Butterfly (dlxub1),2,0,0,0,2,2,0,0
+20140130,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140130,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140130,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140130,Motorola Droid II (cdma_droid2we),1,0,0,1,1,1,0,0
+20140130,HTC Desire (bravo),0,0,0,0,0,1,0,0
+20140130,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140130,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140130,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140130,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140130,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140130,C1904,0,0,0,0,0,1,0,0
+20140129,HTC HTC J Z321e (valentewxc9),0,0,1,0,0,1,0,1
+20140129,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140129,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140129,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140129,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140129,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140129,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140129,Samsung Galaxy Tab2 7.0 (espressorf),0,0,0,0,0,1,0,0
+20140129,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140129,HTC HTC Butterfly (dlxub1),2,1,0,0,2,2,1,0
+20140129,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140129,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140129,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140129,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140129,HTC Desire (bravo),0,0,1,0,0,1,0,1
+20140129,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140129,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140129,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140129,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140129,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140129,C1904,0,0,0,0,0,1,0,0
+20140128,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140128,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140128,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140128,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy S4 (ja3g),2,0,0,0,2,2,0,0
+20140128,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy Tab2 7.0 (espressorf),0,0,1,0,0,1,0,1
+20140128,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140128,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140128,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140128,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140128,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140128,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140128,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140128,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140128,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140128,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140128,C1904,0,0,0,0,0,1,0,0
+20140127,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140127,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140127,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140127,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy S4 (ja3g),2,1,0,0,2,2,1,0
+20140127,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy Tab2 7.0 (espressorf),1,1,0,0,1,1,1,0
+20140127,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140127,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140127,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140127,HTC HTC_7060 (cp5dug),0,0,0,0,0,1,0,0
+20140127,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140127,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140127,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140127,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140127,Sony Ericsson Xperia Z (C6602),2,0,0,0,2,2,0,0
+20140127,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140127,C1904,0,0,0,0,0,1,0,0
+20140126,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140126,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140126,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140126,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140126,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140126,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140126,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140126,HTC HTC_7060 (cp5dug),0,1,1,0,0,1,1,1
+20140126,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140126,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140126,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140126,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140126,Sony Ericsson Xperia Z (C6602),2,1,0,0,2,2,1,0
+20140126,Sony Ericsson Xperia L (C2105),0,0,0,0,0,1,0,0
+20140126,C1904,0,0,0,0,0,1,0,0
+20140125,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140125,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140125,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140125,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140125,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140125,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140125,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140125,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140125,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140125,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140125,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140125,Sony Ericsson Xperia Z (C6602),1,1,0,0,1,1,1,0
+20140125,Sony Ericsson Xperia L (C2105),0,0,1,0,0,1,0,1
+20140125,C1904,0,0,0,0,0,1,0,0
+20140124,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140124,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140124,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140124,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140124,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140124,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140124,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140124,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140124,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140124,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140124,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140124,Sony Ericsson Xperia L (C2105),1,0,0,0,1,1,0,0
+20140124,C1904,0,0,0,0,0,1,0,0
+20140123,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140123,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140123,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140123,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140123,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140123,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140123,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140123,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140123,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140123,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140123,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140123,Sony Ericsson Xperia L (C2105),1,0,0,0,1,1,0,0
+20140123,C1904,0,0,0,0,0,1,0,0
+20140122,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy Note II (t03g),1,0,0,0,1,1,0,0
+20140122,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140122,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140122,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140122,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140122,HTC HTC Butterfly (dlxub1),1,0,0,0,1,1,0,0
+20140122,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140122,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140122,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140122,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140122,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140122,Sony Ericsson Xperia L (C2105),1,0,0,0,1,1,0,0
+20140122,C1904,0,0,0,0,0,1,0,0
+20140121,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy Note II (t03g),1,1,0,0,1,1,1,0
+20140121,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140121,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140121,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140121,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140121,HTC HTC Butterfly (dlxub1),1,1,0,0,1,1,1,0
+20140121,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy Win (delos3geur),0,0,0,0,0,1,0,0
+20140121,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140121,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140121,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140121,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140121,Sony Ericsson Xperia L (C2105),1,0,0,0,1,1,0,0
+20140121,C1904,0,0,0,0,0,1,0,0
+20140120,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140120,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140120,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140120,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140120,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140120,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140120,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140120,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140120,Samsung Galaxy Win (delos3geur),0,0,1,0,0,1,0,1
+20140120,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140120,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140120,Samsung Galaxy S2 (SHW-M250K),0,0,0,0,0,1,0,0
+20140120,Sony Ericsson LT18i (LT18i),1,0,0,0,1,1,0,0
+20140120,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140120,Sony Ericsson Xperia L (C2105),1,1,0,0,1,1,1,0
+20140120,C1904,0,0,0,0,0,1,0,0
+20140119,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140119,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140119,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140119,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140119,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140119,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140119,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140119,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140119,Samsung Galaxy Win (delos3geur),1,1,0,0,1,1,1,0
+20140119,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140119,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140119,Samsung Galaxy S2 (SHW-M250K),0,1,1,0,0,1,1,1
+20140119,Sony Ericsson LT18i (LT18i),1,1,0,0,1,1,1,0
+20140119,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140119,C1904,0,0,0,0,0,1,0,0
+20140118,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140118,Google Nexus 4 (mako),1,0,0,0,1,1,0,0
+20140118,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140118,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140118,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140118,Samsung Galaxy S3 Mini (goldenltevzw),1,0,0,0,1,1,0,0
+20140118,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140118,HTC HTC 9060 (dlxpul),1,0,0,0,1,1,0,0
+20140118,Motorola Droid II (cdma_droid2we),1,0,0,0,1,1,0,0
+20140118,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140118,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140118,C1904,0,0,0,0,0,1,0,0
+20140117,HTC HTC J Z321e (valentewxc9),1,0,0,0,1,1,0,0
+20140117,Google Nexus 4 (mako),1,1,0,0,1,1,1,0
+20140117,HTC HTC One (m7),2,0,0,0,2,2,0,0
+20140117,Samsung Galaxy S3 (m0),1,0,0,0,1,1,0,0
+20140117,Samsung Galaxy S4 (ja3g),1,0,0,0,1,1,0,0
+20140117,Samsung Galaxy S3 Mini (goldenltevzw),1,1,0,0,1,1,1,0
+20140117,HTC HTC One X (endeavoru),1,0,0,0,1,1,0,0
+20140117,HTC HTC 9060 (dlxpul),1,1,0,0,1,1,1,0
+20140117,Motorola Droid II (cdma_droid2we),1,1,0,0,1,1,1,0
+20140117,HTC Desire (bravo),1,0,0,0,1,1,0,0
+20140117,Samsung Galaxy S2 (GT-I9100),1,0,0,0,1,1,0,0
+20140117,C1904,0,0,0,0,0,1,0,0
+20140116,HTC HTC J Z321e (valentewxc9),1,1,0,0,1,1,1,0
+20140116,HTC HTC One (m7),2,2,0,0,2,2,2,0
+20140116,Samsung Galaxy S3 (m0),1,1,0,0,1,1,1,0
+20140116,Samsung Galaxy S4 (ja3g),1,1,0,0,1,1,1,0
+20140116,HTC HTC One X (endeavoru),1,1,0,0,1,1,1,0
+20140116,HTC Desire (bravo),1,1,0,0,1,1,1,0
+20140116,Samsung Galaxy S2 (GT-I9100),1,1,0,0,1,1,1,0
+20140116,C1904,0,1,1,0,0,1,1,1

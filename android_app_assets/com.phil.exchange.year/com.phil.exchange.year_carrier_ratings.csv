@@ -1,0 +1,166 @@
+# -------------------------------------------------------
+# App: com.phil.exchange.year, date: 20140116-20140214
+# -------------------------------------------------------
+
+date,carrier,daily_avg_rating,total_avg_rating
+20140214,Taiwan Mobile Co. Ltd,0.0,5.0
+20140214,Chungwa Telecom,0.0,5.0
+20140214,Far EasTone Telecommunications,0.0,5.0
+20140214,AT&T,0.0,5.0
+20140214,T-Mobile - US,0.0,5.0
+20140214,-1,0.0,5.0
+20140213,Taiwan Mobile Co. Ltd,0.0,5.0
+20140213,Chungwa Telecom,0.0,5.0
+20140213,Far EasTone Telecommunications,0.0,5.0
+20140213,AT&T,0.0,5.0
+20140213,T-Mobile - US,0.0,5.0
+20140213,-1,0.0,5.0
+20140212,Taiwan Mobile Co. Ltd,0.0,5.0
+20140212,Chungwa Telecom,0.0,5.0
+20140212,Far EasTone Telecommunications,0.0,5.0
+20140212,AT&T,0.0,5.0
+20140212,T-Mobile - US,0.0,5.0
+20140212,-1,0.0,5.0
+20140211,Taiwan Mobile Co. Ltd,0.0,5.0
+20140211,Chungwa Telecom,0.0,5.0
+20140211,Far EasTone Telecommunications,0.0,5.0
+20140211,AT&T,0.0,5.0
+20140211,T-Mobile - US,0.0,5.0
+20140211,-1,0.0,5.0
+20140210,Taiwan Mobile Co. Ltd,0.0,5.0
+20140210,Chungwa Telecom,0.0,5.0
+20140210,Far EasTone Telecommunications,0.0,5.0
+20140210,AT&T,0.0,5.0
+20140210,T-Mobile - US,0.0,5.0
+20140210,-1,0.0,5.0
+20140209,Taiwan Mobile Co. Ltd,0.0,5.0
+20140209,Chungwa Telecom,5.0,5.0
+20140209,Far EasTone Telecommunications,0.0,5.0
+20140209,AT&T,0.0,5.0
+20140209,T-Mobile - US,0.0,5.0
+20140209,-1,0.0,5.0
+20140208,Taiwan Mobile Co. Ltd,0.0,5.0
+20140208,Chungwa Telecom,0.0,5.0
+20140208,Far EasTone Telecommunications,0.0,5.0
+20140208,AT&T,0.0,5.0
+20140208,T-Mobile - US,0.0,5.0
+20140208,-1,0.0,5.0
+20140207,Taiwan Mobile Co. Ltd,0.0,5.0
+20140207,Chungwa Telecom,0.0,5.0
+20140207,Far EasTone Telecommunications,0.0,5.0
+20140207,AT&T,0.0,5.0
+20140207,T-Mobile - US,0.0,5.0
+20140207,-1,0.0,5.0
+20140206,Taiwan Mobile Co. Ltd,0.0,5.0
+20140206,Chungwa Telecom,0.0,5.0
+20140206,Far EasTone Telecommunications,0.0,5.0
+20140206,AT&T,0.0,5.0
+20140206,T-Mobile - US,0.0,5.0
+20140206,-1,0.0,5.0
+20140205,Taiwan Mobile Co. Ltd,0.0,5.0
+20140205,Chungwa Telecom,0.0,5.0
+20140205,Far EasTone Telecommunications,0.0,5.0
+20140205,AT&T,0.0,5.0
+20140205,T-Mobile - US,0.0,5.0
+20140205,-1,0.0,5.0
+20140204,Taiwan Mobile Co. Ltd,0.0,5.0
+20140204,Chungwa Telecom,0.0,5.0
+20140204,Far EasTone Telecommunications,0.0,5.0
+20140204,AT&T,0.0,5.0
+20140204,T-Mobile - US,0.0,5.0
+20140204,-1,0.0,5.0
+20140203,Taiwan Mobile Co. Ltd,0.0,5.0
+20140203,Chungwa Telecom,0.0,5.0
+20140203,Far EasTone Telecommunications,0.0,5.0
+20140203,AT&T,0.0,5.0
+20140203,T-Mobile - US,0.0,5.0
+20140203,-1,0.0,5.0
+20140202,Taiwan Mobile Co. Ltd,0.0,5.0
+20140202,Chungwa Telecom,0.0,5.0
+20140202,Far EasTone Telecommunications,0.0,5.0
+20140202,AT&T,0.0,5.0
+20140202,T-Mobile - US,0.0,5.0
+20140202,-1,0.0,5.0
+20140201,Taiwan Mobile Co. Ltd,0.0,5.0
+20140201,Chungwa Telecom,0.0,5.0
+20140201,Far EasTone Telecommunications,0.0,5.0
+20140201,AT&T,0.0,5.0
+20140201,T-Mobile - US,0.0,5.0
+20140201,-1,0.0,5.0
+20140131,Taiwan Mobile Co. Ltd,0.0,5.0
+20140131,Chungwa Telecom,0.0,5.0
+20140131,Far EasTone Telecommunications,0.0,5.0
+20140131,AT&T,0.0,5.0
+20140131,T-Mobile - US,0.0,5.0
+20140131,-1,0.0,5.0
+20140130,Taiwan Mobile Co. Ltd,0.0,5.0
+20140130,Chungwa Telecom,0.0,5.0
+20140130,Far EasTone Telecommunications,0.0,5.0
+20140130,AT&T,0.0,5.0
+20140130,T-Mobile - US,0.0,5.0
+20140130,-1,0.0,5.0
+20140129,Taiwan Mobile Co. Ltd,0.0,5.0
+20140129,Chungwa Telecom,0.0,5.0
+20140129,Far EasTone Telecommunications,0.0,5.0
+20140129,AT&T,0.0,5.0
+20140129,T-Mobile - US,0.0,5.0
+20140129,-1,0.0,5.0
+20140128,Taiwan Mobile Co. Ltd,0.0,5.0
+20140128,Chungwa Telecom,0.0,5.0
+20140128,Far EasTone Telecommunications,0.0,5.0
+20140128,AT&T,0.0,5.0
+20140128,T-Mobile - US,0.0,5.0
+20140128,-1,0.0,5.0
+20140127,Taiwan Mobile Co. Ltd,5.0,5.0
+20140127,Chungwa Telecom,0.0,5.0
+20140127,Far EasTone Telecommunications,0.0,5.0
+20140127,AT&T,0.0,5.0
+20140127,T-Mobile - US,0.0,5.0
+20140127,-1,0.0,5.0
+20140126,Chungwa Telecom,0.0,5.0
+20140126,Far EasTone Telecommunications,0.0,5.0
+20140126,AT&T,0.0,5.0
+20140126,T-Mobile - US,0.0,5.0
+20140126,-1,0.0,5.0
+20140125,Chungwa Telecom,0.0,5.0
+20140125,Far EasTone Telecommunications,0.0,5.0
+20140125,AT&T,0.0,5.0
+20140125,T-Mobile - US,0.0,5.0
+20140125,-1,0.0,5.0
+20140124,Chungwa Telecom,0.0,5.0
+20140124,Far EasTone Telecommunications,0.0,5.0
+20140124,AT&T,0.0,5.0
+20140124,T-Mobile - US,0.0,5.0
+20140124,-1,0.0,5.0
+20140123,Chungwa Telecom,0.0,5.0
+20140123,Far EasTone Telecommunications,0.0,5.0
+20140123,AT&T,0.0,5.0
+20140123,T-Mobile - US,0.0,5.0
+20140123,-1,0.0,5.0
+20140122,Chungwa Telecom,0.0,5.0
+20140122,Far EasTone Telecommunications,0.0,5.0
+20140122,AT&T,0.0,5.0
+20140122,T-Mobile - US,0.0,5.0
+20140122,-1,0.0,5.0
+20140121,Chungwa Telecom,5.0,5.0
+20140121,Far EasTone Telecommunications,0.0,5.0
+20140121,AT&T,0.0,5.0
+20140121,T-Mobile - US,0.0,5.0
+20140121,-1,0.0,5.0
+20140120,Chungwa Telecom,0.0,5.0
+20140120,Far EasTone Telecommunications,0.0,5.0
+20140120,AT&T,0.0,5.0
+20140120,T-Mobile - US,0.0,5.0
+20140120,-1,0.0,5.0
+20140119,Chungwa Telecom,0.0,5.0
+20140119,Far EasTone Telecommunications,0.0,5.0
+20140119,AT&T,0.0,5.0
+20140119,T-Mobile - US,0.0,5.0
+20140118,Chungwa Telecom,0.0,5.0
+20140118,Far EasTone Telecommunications,0.0,5.0
+20140118,AT&T,0.0,5.0
+20140118,T-Mobile - US,0.0,5.0
+20140117,Chungwa Telecom,5.0,5.0
+20140117,Far EasTone Telecommunications,0.0,5.0
+20140117,AT&T,0.0,5.0
+20140117,T-Mobile - US,0.0,5.0

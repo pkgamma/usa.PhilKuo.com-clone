@@ -1,0 +1,24 @@
+HTTrack3.48-19+htsswf+htsjava launched on Sun, 08 Mar 2015 23:59:01 at http://usa.philkuo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://usa.philkuo.com/ -O1 "C:\Users\Philip\Desktop\test\Phil's Blog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:36:07	Error: 	"Not Found" (404) at link usa.philkuo.com/cdn.tynt.com/images/ss/ (from tcr.tynt.com/ti.js)
+03:36:07	Error: 	"Not Found" (404) at link usa.philkuo.com/t.png (from tcr.tynt.com/ti.js)
+03:36:07	Error: 	"Not Found" (404) at link usa.philkuo.com/fb.png (from tcr.tynt.com/ti.js)
+03:36:07	Error: 	"Not Found" (404) at link usa.philkuo.com/li.png (from tcr.tynt.com/ti.js)
+03:36:07	Error: 	"Not Found" (404) at link usa.philkuo.com/gp.png (from tcr.tynt.com/ti.js)
+14:21:15	Warning: 	Retry after error -4 (Incorrect length (2824714 Bytes, 3199728 expected)) at link 1.bp.blogspot.com/-fSi2nX1d6mo/U0OY_vrf9sI/AAAAAAAAJLM/oYYXPSN5IDQ/s1600/IMG_2572-MOTION.gif (from usa.philkuo.com/2014/04/san-diego-seal-tours-adventures.html)
+14:21:47	Warning: 	Retry after error -4 (Incorrect length (1949232 Bytes, 2879808 expected)) at link 3.bp.blogspot.com/-Cn2SzDOQbpA/Un2wr0w0hDI/AAAAAAAARpY/cOmd7obsXhU/s1600/IMAG1136.png (from usa.philkuo.com/2013/11/cool-photos-that-i-took-for-photography.html)
+14:21:52	Error: 	"Not Found" (404) at link 1.bp.blogspot.com/-YFhkgZC1qc0/UldIqNDvi-I/AAAAAAAALyA/-vvo_OxM8Z4/s45/Philip%25252B%25252528No%25252BWord%25252529.jpg (from usa.philkuo.com/2013/10/Walmart.html)
+14:21:54	Warning: 	Retry after error -4 (Incorrect length (4037181 Bytes, 4604192 expected)) at link 2.bp.blogspot.com/-kRFk52l7fjs/Ul4XHeKguSI/AAAAAAAAMoI/1tQFXMwZj58/s1600/IMAG1393_BURST001-MOTION.gif (from usa.philkuo.com/2013/10/AboutIpswich.html)
+14:22:14	Warning: 	Retry after error 500 (Internal Server Error) at link 4.bp.blogspot.com/-2U2HTmKTKRg/UltHglUeOkI/AAAAAAAAMO4/chkalN1S9YM/s1600/IMAG0293.jpg (from usa.philkuo.com/2013/10/plane.html)
+14:22:26	Error: 	"Not Found" (404) at link 3.bp.blogspot.com/-71swv8eRFCU/TqzyWY0DsiI/AAAAAAAAAEM/qsXDlFL6wWM/s45/Superman.jpg (from usa.philkuo.com/2013/10/yeah-my-new-blog-are-finally-done.html)
+14:23:44	Warning: 	Retry after error 500 () at link 4.bp.blogspot.com/-2U2HTmKTKRg/UltHglUeOkI/AAAAAAAAMO4/chkalN1S9YM/s1600/IMAG0293.jpg (from usa.philkuo.com/2013/10/plane.html)
+14:24:25	Error: 	"" (500) after 2 retries at link 4.bp.blogspot.com/-2U2HTmKTKRg/UltHglUeOkI/AAAAAAAAMO4/chkalN1S9YM/s1600/IMAG0293.jpg (from usa.philkuo.com/2013/10/plane.html)
+
+HTTrack Website Copier/3.48-19 mirror complete in 14 hours 26 minutes 55 seconds : 5141 links scanned, 5127 files written (1340373345 bytes overall) [1294250345 bytes received at 24882 bytes/sec], 65139832 bytes transferred using HTTP compression in 566 files, ratio 25%
+(8 errors, 5 warnings, 0 messages)
